@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amogha k</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FJurojinKun&psig=AOvVaw0scyl4uLNX3pZF7RovIjjG&ust=1693845923487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDDlIPyjoEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/72f11b0a4f464d653b9883d7906c51e339c3412093a8ba8906ee1149ac705677/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amogha-k-890079223&label=Profile%20views&color=0e75b6&style=flat" alt="amogha-k-890079223" /> </p>
 
