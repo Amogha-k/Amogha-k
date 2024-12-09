@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amoghak2003@gmail.com**
 
-- ⚡ Motivation **Love what you do**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
