@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250" alt="working with data" />
 </p>
 
 ---
@@ -36,19 +36,19 @@
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="20"/> Azure  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"/> Git  
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="20"/> GitLab  
-<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="20"/> GitLab CI  
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="20"/> GitLab CI  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> Linux  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> Ubuntu  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/CentOS_logo.svg" width="20"/> CentOS  
 
 ---
 
-### 📊 Data Engineering & Analytics Highlights
-- Building **ETL pipelines** and optimizing **data workflows** using Python, SQL, and Spark.  
-- Working with **relational and NoSQL databases** to structure and analyze large datasets.  
-- Hands-on experience with **cloud services** like Azure for storage, compute, and analytics.  
-- **Automating data pipelines** using Shell scripting, GitLab CI, and workflow orchestration.  
-- **Data visualization & analytics** using Python libraries, R, and Elasticsearch dashboards.  
+### 📊 Data Engineering Highlights
+- Building **ETL pipelines** and optimizing **data workflows** using Python, SQL, and Spark  
+- Working with **relational and NoSQL databases** to structure and analyze large datasets  
+- Hands-on experience with **cloud services** like Azure for storage, compute, and analytics  
+- **Automating data pipelines** using Shell scripting, GitLab CI, and workflow orchestration  
+- **Data visualization & analytics** using Python libraries, R, and Elasticsearch dashboards  
 
 ---
 
@@ -59,12 +59,7 @@
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogha-k-890079223/)  
-📧 amoghak2003@gmail.com  
+### 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn‑blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogha-k-890079223/)  
+📧 amoghak2003@example.com  
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="250" />
-</p>
