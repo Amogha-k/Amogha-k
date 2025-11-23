@@ -1,14 +1,14 @@
-<table>
-  <tr>
-    <td valign="center">
-      <h1>Hi 👋, I'm Amogha K</h1>
-      <h3>A passionate Data Engineer</h3>
-    </td>
-    <td valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="data engineer working with data visualization" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="data engineer animation" />
+
+# Hi 👋, I'm Amogha K
+### A passionate Data Engineer
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br clear="all" />
 
 ---
 
@@ -44,7 +44,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" width="20"/> **GitLab CI**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> **Linux**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> **Ubuntu**
-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/CentOS_logo.svg" width="20"/> **CentOS**
 
 ---
 
@@ -66,4 +66,4 @@
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogha-k-890079223/)  
-📧 amoghak2003@example.com
+📧 amoghak2003@gmail.com
