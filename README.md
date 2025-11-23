@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amogha K</h1>
-<h3 align="center">A passionate Data Engineer </h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
 </p>
 
 ---
@@ -10,36 +10,36 @@
 ### 🛠 Skills & Tools
 
 **Programming & Scripting:**  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript  
-![Shell](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) Shell  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"/> Java  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> TypeScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="20"/> Shell  
 
 **Web Development:**  
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React.js  
-![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) Vue.js  
-![Selenium](https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg) Selenium  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20"/> Vue.js  
+<img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="20"/> Selenium  
 
 **Databases & Data Engineering:**  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) PostgreSQL  
-![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg) SQLite  
-![RDBMS](https://cdn-icons-png.flaticon.com/512/3414/3414386.png) RDB / SQL  
-![Elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg) Elasticsearch  
-![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg) Oracle  
-![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg) R  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20"/> MySQL  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="20"/> PostgreSQL  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20"/> SQLite  
+<img src="https://cdn-icons-png.flaticon.com/512/3414/3414386.png" width="20"/> RDB / SQL  
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="20"/> Elasticsearch  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="20"/> Oracle  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="20"/> R  
 
 **Cloud & DevOps:**  
-![Azure](https://cdn.worldvectorlogo.com/logos/azure-1.svg) Azure  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git  
-![GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png) GitLab  
-![GitLab CI](https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png) GitLab CI  
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux  
-![Ubuntu](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg) Ubuntu  
-![CentOS](https://upload.wikimedia.org/wikipedia/commons/9/91/CentOS_logo.svg) CentOS  
+<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="20"/> Azure  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"/> Git  
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="20"/> GitLab  
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" width="20"/> GitLab CI  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> Linux  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> Ubuntu  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/CentOS_logo.svg" width="20"/> CentOS  
 
 ---
 
@@ -60,12 +60,11 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogha-k/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amogha-k)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogha-k-890079223/)  
+📧 amoghak2003@gmail.com  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="250" />
 </p>
-
