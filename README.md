@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amogha K</h1>
-<h3 align="center">Aspiring Data Engineer | Cloud & Big Data Enthusiast</h3>
+<h3 align="center"> Data Engineer | Cloud & Big Data Enthusiast</h3>
 <img align="right" alt="data" width="400" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
 
-- 🌱 I’m currently learning **AWS, Spark, and Python for Data Engineering**  
+- 🌱 I’m currently learning **Azure , OracleCloud and Python for Data Engineering**  
 - 💬 Ask me about **Data Pipelines, SQL, Python, ETL, and Cloud**  
 - 📫 How to reach me: **amoghak2003@gmail.com**  
 
