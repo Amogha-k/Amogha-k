@@ -44,7 +44,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" width="20"/> **GitLab CI**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> **Linux**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> **Ubuntu**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/CentOS_logo.svg" width="20"/> **CentOS**
+
 
 ---
 
