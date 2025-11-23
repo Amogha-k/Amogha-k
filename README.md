@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="data engineer animation" />
 
-# Hi 👋, I'm Amogha K
+### Hi 👋, I'm Amogha K
 ### A passionate Data Engineer
 
 <br/>
